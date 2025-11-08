@@ -67,3 +67,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 ---
 **Geliştirici:** Batuhan Yılmaz
+
+
+![tanitim](assets/tanitim.mp4)

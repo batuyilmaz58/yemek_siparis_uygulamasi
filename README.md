@@ -63,7 +63,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 | Anasayfa | Detay Sayfası | Sepet Sayfası |
 | :---: | :---: | :---: |
-|  |  |  |
+|![anasayfa](assets/anasayfa.png)  |![detaysayfa](assets/detaysayfa.png)  |![sepet](assets/sepetsayfa.png)  |
 
 ---
 **Geliştirici:** Batuhan Yılmaz

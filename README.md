@@ -28,10 +28,10 @@ lib/
 # Model sınıfları (Yemekler, SepetYemekler, Cevaplar) 
 │ └── repo/ 
 # API ile iletişim kuran Repository sınıfları (YemeklerDaoRepository) 
-├── ui/ │ 
-├── cubit/ 
+├── ui/ 
+│ ├── cubit/ 
 # Uygulamanın iş mantığını içeren Cubit sınıfları │ 
-├── views/ 
+│ ├── views/ 
 # Kullanıcı arayüzü (Anasayfa, YemekDetay, SepetSayfa) 
 │ └── main.dart
 
